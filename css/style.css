@@ -518,6 +518,7 @@ ol {
 	padding-top: 5px;
 	color: #fff;
 	display: inline-block;
+	max-width: 30%;
 }
 
 .search-top {
@@ -864,6 +865,13 @@ ol {
 
 .milestones-section .fact-box:last-child .fact-content:after {
 	display: none;
+}
+
+.milestone-text {
+	color: white;
+	text-align: center;
+	position: relative;
+	margin:0 auto;
 }
 
 /*---------------------
