@@ -705,8 +705,8 @@ ol {
 
 .hs-item .hs-title {
 	color: #fff;
-	font-size: 130px;
-	font-weight: 300;
+	font-size: 90px;
+	font-weight: 400;
 	margin-bottom: 40px;
 	position: relative;
 	left: 150px;
@@ -715,7 +715,7 @@ ol {
 
 .hs-item .hs-des {
 	color: #fff;
-	font-size: 60px;
+	font-size: 40px;
 	line-height: 1.4;
 	position: relative;
 	left: 150px;
